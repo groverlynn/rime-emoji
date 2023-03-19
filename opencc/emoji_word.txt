@@ -6,8 +6,8 @@ $	$ 💰
 $眼睛	$眼睛 🤑
 $舌頭	$舌頭 🤑
 (C)	(C) ©️ ©️️
-(c)	(c) ©️ ©️️
 (R)	(R) ®️
+(c)	(c) ©️ ©️️
 *	* *️⃣
 +	+ ➕
 0	0 👌 0️⃣
@@ -189,19 +189,17 @@ $舌頭	$舌頭 🤑
 ;P	;P 😜
 ?	? ❓ ❔
 A	A 🅰️
-a	a 🅰️
 AB	AB 🆎️
-ab	ab 🆎️
-abc	abc 🔤
 AB型	AB型 🆎️
 AB型血	AB型血 🆎️
 AB型血型	AB型血型 🆎️
-amen	amen 🙏
-Appledev	Appledev 👨‍💻 👩‍💻
+ATM	ATM 🏧
+ATM自動取款機符號	ATM自動取款機符號 🏧
 AppleGenius	AppleGenius 👨‍💻 👩‍💻
-Applegenius	Applegenius 👨‍💻 👩‍💻
 AppleMouse鼠標	AppleMouse鼠標 🖱
 AppleMusic	AppleMusic 🎧
+Appledev	Appledev 👨‍💻 👩‍💻
+Applegenius	Applegenius 👨‍💻 👩‍💻
 Applewatch	Applewatch ⌚️
 Apple天才	Apple天才 👨‍💻 👩‍💻
 Apple工程師	Apple工程師 👨‍💻 👩‍💻
@@ -210,109 +208,54 @@ Apple開發	Apple開發 👨‍💻 👩‍💻
 Apple開發人員	Apple開發人員 👨‍💻 👩‍💻
 Apple開發者	Apple開發者 👨‍💻 👩‍💻
 Apple鼠標	Apple鼠標 🖱
-ATM	ATM 🏧
-ATM自動取款機符號	ATM自動取款機符號 🏧
-aum符號	aum符號 🕉
 A型	A型 🅰️
 A型血	A型血 🅰️
 A型血型	A型血型 🅰️
 B	B 🅱️
-b	b 🅱️
-back標誌的箭嘴	back標誌的箭嘴 🔙
-back標誌的箭頭	back標誌的箭頭 🔙
-balloon	balloon 🎈
-band-aid	band-aid 🩹
 BB	BB 🍼 👶
-bb	bb 👶 👼 🚼
 BBQ	BBQ 🍖 🍗
 BB仔	BB仔 👶
 BB天使	BB天使 👼
-bb天使	bb天使 👼
 BB機	BB機 📟
-beer	beer 🍻
 BFF	BFF 👯‍♀️ 👯‍♂️
-bicep	bicep 💪
 BIOT旗	BIOT旗 🇮🇴
 BIOT旗幟	BIOT旗幟 🇮🇴
-birthday	birthday 🎈
-boo	boo 😒
-bot	bot 🤖
-bravo	bravo 👏
-brrr	brrr 🥶
-buzz	buzz 🐝
-bye	bye 👋
-byebye	byebye 👋
 BZZ	BZZ 🐝
-bzzz	bzzz 🐝
-bzzzz	bzzzz 🐝
-bzzzzz	bzzzzz 🐝
 B型	B型 🅱️
 B型血	B型血 🅱️
 B型血型	B型血型 🅱️
-call我	call我 🤙
 CD	CD 💽 💿 📀
-cd	cd 💽 💿 📀
 CEO	CEO 👨‍💼 👩‍💼
 CFO	CFO 👨‍💼 👩‍💼
-cheers	cheers 🍻
 CL	CL 🆑️
 CL標誌	CL標誌 🆑️
 CL符號	CL符號 🆑️
-cl符號	cl符號 🆑️
 COO	COO 👨‍💼 👩‍💼
 COOL	COOL 🆒️
-cool符號	cool符號 🆒️
 CPA	CPA 👨‍💼 👩‍💼
-disco	disco 💃
-dllm	dllm 🤬
 DNA	DNA 🧬
-dna	dna 🧬
 DVD	DVD 📀
-dvd	dvd 📀
 E.T.	E.T. 👽
-EarPod	EarPod 🎧
-EarPods	EarPods 🎧
 EMT	EMT 🚑
-end標誌的箭嘴	end標誌的箭嘴 🔚
-end標誌的箭頭	end標誌的箭頭 🔚
 ET	ET 👽
 EUR	EUR 💶
+EarPod	EarPod 🎧
+EarPods	EarPods 🎧
 Euro	Euro 💶
 F1	F1 🏎
 F1方程式賽車	F1方程式賽車 🏎
 F1賽車	F1賽車 🏎
-flamenco	flamenco 💃
 FM	FM 📻
-formula1	formula1 🏎
-formulaone	formulaone 🏎
 FREE	FREE 🆓️
-free符號	free符號 🆓️
 Frosty	Frosty ☃️
-GarageBand	GarageBand 🎸
 GB	GB 🇬🇧
 GBP	GBP 💷
-gelato	gelato 🍧 🍨
 GLBT	GLBT 🏳️‍🌈
-grrrr	grrrr 🐯 👿 😖
-haha	haha 😜 😝
-hahaha	hahaha 😆
+GarageBand	GarageBand 🎸
 Halloween	Halloween 🎃
-handsonhead	handsonhead 🙆‍♀️ 🙆‍♂️
-heehee	heehee 😜
-hello	hello 👋
-hey	hey 👋
-hi	hi 👋
-hmm	hmm 🤔
-i	i ℹ️
 ICHC	ICHC 🥺
 ID	ID 🎫 🪪 🆔️
 ILY	ILY 🤟
-iMac	iMac 🖥
-iPhone	iPhone 🎧 📱 📲
-iPhones	iPhones 📱
-iPhone和箭頭	iPhone和箭頭 📲
-iPod	iPod 🎧 📱
-iPods	iPods 📱
 IT	IT 👨‍💻 👩‍💻
 IT人員	IT人員 👨‍💻 👩‍💻
 IT人士	IT人士 👨‍💻 👩‍💻
@@ -320,129 +263,64 @@ IT女	IT女 👩‍💻
 IT工人	IT工人 👨‍💻 👩‍💻
 IT工作者	IT工作者 👨‍💻 👩‍💻
 IT男	IT男 👨‍💻
-jeans	jeans 👖
 JPY	JPY 💴
-Kaaba	Kaaba 🕋
-kissbye	kissbye 😘
 KTV	KTV 🎤
+Kaaba	Kaaba 🕋
 K到頭	K到頭 🤕
 K歌	K歌 🪩
-lab	lab 🔬
-laptop	laptop 💻
 LGBT	LGBT 🏳️‍🌈
-LGBTpride旗幟	LGBTpride旗幟 🏳️‍🌈
 LGBTQ	LGBTQ 🏳️‍🌈
+LGBTpride旗幟	LGBTpride旗幟 🏳️‍🌈
 LGBT自豪	LGBT自豪 🏳️‍🌈
 LGBT驕傲	LGBT驕傲 🏳️‍🌈
 LGBT驕傲旗	LGBT驕傲旗 🏳️‍🌈
-lmao	lmao 🤣 😂 😆
 LPGA	LPGA ⛳️
-lucky	lucky ☺️
-lulz	lulz 🤣 😆
 M	M Ⓜ️
-m	m 👣
+MD	MD 💽
+MLB	MLB ⚾️
+MLS	MLS ⚽️
 Mac	Mac 💻 🖥
 MacBook	MacBook 💻
 MacBookAir	MacBookAir 💻
 MacBookPro	MacBookPro 💻
 Madam	Madam 👮‍♀️ 🚓
-MD	MD 💽
-MLB	MLB ⚾️
-MLS	MLS ⚽️
-mmmm	mmmm 😋
-moai	moai 🗿
-moyai	moyai 🗿
-mua	mua 💋 😙
-muah	muah 😘 😚
-muahaha	muahaha 😈
-music	music 🎵 🎶
-namaste	namaste 🙏
 NBA	NBA 🏀
-neenerneener	neenerneener 🤪 😜
 NEW	NEW 🆕️
-new符號	new符號 🆕️
 NFL	NFL 🏈
 NG	NG 🆖️
-ng	ng 🆖️
 NG標誌	NG標誌 🆖️
 NG符號	NG符號 🆖️
-no	no 👎
-notebook	notebook 💻
 O	O 🅾️
-o	o 🅾️
 OB	OB 👨‍💼
 OG	OG 👨‍💼
-ok	ok 👌 👍 🆗️
 OK	OK 👍 🆗️
-okay	okay 👌 🆗️
-okay手勢	okay手勢 👌
-ok手	ok手 👌
 OK手勢	OK手勢 👌 🙆‍♀️ 🙆‍♂️
-ok手勢	ok手勢 👌 🙆‍♀️ 🙆‍♂️
 OK符號	OK符號 🆗️
 OK繃	OK繃 🩹
 OL	OL 👩‍💼
-om符號	om符號 🕉
-on	on 🔛
-on!標誌的箭頭	on!標誌的箭頭 🔛
-on!箭頭	on!箭頭 🔛
-on箭頭	on箭頭 🔛
-oops	oops 🙊
-ooxx	ooxx 😘 😚
-ouch	ouch 😣
 O咀	O咀 😶
 O嘴	O嘴 😶
 O型	O型 🅾️
 O型血	O型血 🅾️
 O型血型	O型血型 🅾️
-p	p 🅿️
-party時間	party時間 🥳
 PC	PC 💻
-pc	pc 💻
-peace	peace ✌️
 PGA	PGA ⛳️
 PI	PI 🕵️‍♀️ 🕵️‍♂️
-polo	polo 👕 👚
-polo恤	polo恤 👕
 Polo衫	Polo衫 👕
-polo衫	polo衫 👕
-portfolio	portfolio 💼
-prrr	prrr 😸 😺 😻
-puaaloalo	puaaloalo 🌺
 RIP	RIP 💀
-rofl	rofl 🤣
-rotfl	rotfl 😂 😜 😝
 RV	RV 🚙
-sales	sales 👨‍💼 👩‍💼
-salsa	salsa 💃
-salsa舞	salsa舞 💃
 SARS	SARS 😷
+SOS	SOS 🆘️
+SOS符號	SOS符號 🆘️
+SPA	SPA 🧖‍♀️ 🧖‍♂️
+SUV	SUV 🚙
 Shaka標誌	Shaka標誌 🤙
 Sherlock	Sherlock 🕵️‍♂️
 SherlockHolmes	SherlockHolmes 🕵️‍♂️
-sing	sing 🎵 🎶
-snapstreak	snapstreak 🔥
-soon標誌	soon標誌 🔜
-soon標誌的箭嘴	soon標誌的箭嘴 🔜
-soon標誌的箭頭	soon標誌的箭頭 🔜
-soon箭頭	soon箭頭 🔜
-SOS	SOS 🆘️
-sos	sos 🆘️
-SOS符號	SOS符號 🆘️
-SPA	SPA 🧖‍♀️ 🧖‍♂️
-spa	spa 🧖‍♀️ 🧖‍♂️
-spf	spf 🧴
-SUV	SUV 🚙
-taco	taco 🌮
 TM	TM ™️
 TMD	TMD 🤬
-tmd	tmd 🤬
-tnt	tnt 🧨
-top標誌的箭嘴	top標誌的箭嘴 🔝
-top標誌的箭頭	top標誌的箭頭 🔝
-Triton	Triton 🔱
 TV	TV 📺
-tv	tv 📺
+Triton	Triton 🔱
 U.N	U.N 🇺🇳
 U.N.旗幟	U.N.旗幟 🇺🇳
 U.S.國旗	U.S.國旗 🇺🇸
@@ -451,52 +329,175 @@ UAE國旗	UAE國旗 🇦🇪
 UAE旗	UAE旗 🇦🇪
 UFO	UFO 🛸
 UK	UK 🇬🇧
-ummm	ummm 🤔 🤨 🧐
-ummmm	ummmm 😳
 UN	UN 🇺🇳
 UN旗幟	UN旗幟 🇺🇳
 UP	UP 🆙️
-up符號	up符號 🆙️
 US	US 🇺🇸
 USA	USA 🇺🇸
 US國旗	US國旗 🇺🇸
 U型磁鐵	U型磁鐵 🧲
-van仔	van仔 🚐
 VHS	VHS 📼
+V字形和平手勢	V字形和平手勢 ✌️
+WC	WC 🚻 🚽 🚾
+WC廁所	WC廁所 🚾
+Watch	Watch ⌚️
+X	X ❌ ❎
+XD	XD 🤣 😂 😆
+XDD	XDD 🤣 😂 😆
+XDDD	XDDD 🤣 😂 😆
+XP	XP 😝
+X光	X光 🩻
+X標記	X標記 ❎
+Yeah	Yeah 🥳
+a	a 🅰️
+ab	ab 🆎️
+abc	abc 🔤
+amen	amen 🙏
+aum符號	aum符號 🕉
+b	b 🅱️
+back標誌的箭嘴	back標誌的箭嘴 🔙
+back標誌的箭頭	back標誌的箭頭 🔙
+balloon	balloon 🎈
+band-aid	band-aid 🩹
+bb	bb 👶 👼 🚼
+bb天使	bb天使 👼
+beer	beer 🍻
+bicep	bicep 💪
+birthday	birthday 🎈
+boo	boo 😒
+bot	bot 🤖
+bravo	bravo 👏
+brrr	brrr 🥶
+buzz	buzz 🐝
+bye	bye 👋
+byebye	byebye 👋
+bzzz	bzzz 🐝
+bzzzz	bzzzz 🐝
+bzzzzz	bzzzzz 🐝
+call我	call我 🤙
+cd	cd 💽 💿 📀
+cheers	cheers 🍻
+cl符號	cl符號 🆑️
+cool符號	cool符號 🆒️
+disco	disco 💃
+dllm	dllm 🤬
+dna	dna 🧬
+dvd	dvd 📀
+end標誌的箭嘴	end標誌的箭嘴 🔚
+end標誌的箭頭	end標誌的箭頭 🔚
+flamenco	flamenco 💃
+formula1	formula1 🏎
+formulaone	formulaone 🏎
+free符號	free符號 🆓️
+gelato	gelato 🍧 🍨
+grrrr	grrrr 🐯 👿 😖
+haha	haha 😜 😝
+hahaha	hahaha 😆
+handsonhead	handsonhead 🙆‍♀️ 🙆‍♂️
+heehee	heehee 😜
+hello	hello 👋
+hey	hey 👋
+hi	hi 👋
+hmm	hmm 🤔
+i	i ℹ️
+iMac	iMac 🖥
+iPhone	iPhone 🎧 📱 📲
+iPhones	iPhones 📱
+iPhone和箭頭	iPhone和箭頭 📲
+iPod	iPod 🎧 📱
+iPods	iPods 📱
+jeans	jeans 👖
+kissbye	kissbye 😘
+lab	lab 🔬
+laptop	laptop 💻
+lmao	lmao 🤣 😂 😆
+lucky	lucky ☺️
+lulz	lulz 🤣 😆
+m	m 👣
+mmmm	mmmm 😋
+moai	moai 🗿
+moyai	moyai 🗿
+mua	mua 💋 😙
+muah	muah 😘 😚
+muahaha	muahaha 😈
+music	music 🎵 🎶
+namaste	namaste 🙏
+neenerneener	neenerneener 🤪 😜
+new符號	new符號 🆕️
+ng	ng 🆖️
+no	no 👎
+notebook	notebook 💻
+o	o 🅾️
+ok	ok 👌 👍 🆗️
+okay	okay 👌 🆗️
+okay手勢	okay手勢 👌
+ok手	ok手 👌
+ok手勢	ok手勢 👌 🙆‍♀️ 🙆‍♂️
+om符號	om符號 🕉
+on	on 🔛
+on!標誌的箭頭	on!標誌的箭頭 🔛
+on!箭頭	on!箭頭 🔛
+on箭頭	on箭頭 🔛
+oops	oops 🙊
+ooxx	ooxx 😘 😚
+ouch	ouch 😣
+p	p 🅿️
+party時間	party時間 🥳
+pc	pc 💻
+peace	peace ✌️
+polo	polo 👕 👚
+polo恤	polo恤 👕
+polo衫	polo衫 👕
+portfolio	portfolio 💼
+prrr	prrr 😸 😺 😻
+puaaloalo	puaaloalo 🌺
+rofl	rofl 🤣
+rotfl	rotfl 😂 😜 😝
+sales	sales 👨‍💼 👩‍💼
+salsa	salsa 💃
+salsa舞	salsa舞 💃
+sing	sing 🎵 🎶
+snapstreak	snapstreak 🔥
+soon標誌	soon標誌 🔜
+soon標誌的箭嘴	soon標誌的箭嘴 🔜
+soon標誌的箭頭	soon標誌的箭頭 🔜
+soon箭頭	soon箭頭 🔜
+sos	sos 🆘️
+spa	spa 🧖‍♀️ 🧖‍♂️
+spf	spf 🧴
+taco	taco 🌮
+tmd	tmd 🤬
+tnt	tnt 🧨
+top標誌的箭嘴	top標誌的箭嘴 🔝
+top標誌的箭頭	top標誌的箭頭 🔝
+tv	tv 📺
+ummm	ummm 🤔 🤨 🧐
+ummmm	ummmm 😳
+up符號	up符號 🆙️
+van仔	van仔 🚐
 vs	vs 🆚️
 vs標誌	vs標誌 🆚️
 vs符號	vs符號 🆚️
-V字形和平手勢	V字形和平手勢 ✌️
-Watch	Watch ⌚️
-WC	WC 🚻 🚽 🚾
 wc	wc 🚻 🚽 🚾
-WC廁所	WC廁所 🚾
 wc符號	wc符號 🚾
 wink表情	wink表情 😉
 wohoo	wohoo 🙌
 woof	woof 🐶
 woohoo	woohoo 🎉 🙌
 word天	word天 🤦‍♀️ 🤦‍♂️
-X	X ❌ ❎
 x	x ❌ ❎
-XD	XD 🤣 😂 😆
-XDD	XDD 🤣 😂 😆
-XDDD	XDDD 🤣 😂 😆
 xo	xo 😘 😚
 xoxo	xoxo 💋 😘 😚
-XP	XP 😝
 xx	xx 💋 😘 😚
 xxoo	xxoo 😘 😚
 xx眼	xx眼 😵
-X光	X光 🩻
-X標記	X標記 ❎
 x符號	x符號 ❎
 yay	yay 👏
-Yeah	Yeah 🥳
 yes	yes 🙆‍♀️ 🙆‍♂️
 yo-yo	yo-yo 🪀
 yoyo	yoyo 🪀
 zzZ	zzZ 💤 😴
+zzz	zzz 💤 😴
 〇	〇 0️⃣
 「On!」箭嘴	「On!」箭嘴 🔛
 「唵」符號	「唵」符號 🕉
@@ -643,7 +644,6 @@ zzZ	zzZ 💤 😴
 一般的表情	一般的表情 😐
 一英鎊	一英鎊 💷
 一袋錢	一袋錢 💰
-一見鍾情	一見鍾情 😍 😻 😽 🥰
 一語不發	一語不發 😶
 一身鬆曬	一身鬆曬 😌
 一軸線	一軸線 🧵
@@ -4389,6 +4389,7 @@ zzZ	zzZ 💤 😴
 奧蘭群島旗	奧蘭群島旗 🇦🇽
 奧蘭群島旗幟	奧蘭群島旗幟 🇦🇽
 女AppleGenius	女AppleGenius 👩‍💻
+女Applegenius	女Applegenius 👩‍💻
 女Apple天才	女Apple天才 👩‍💻
 女Apple工程師	女Apple工程師 👩‍💻
 女Apple開發人員	女Apple開發人員 👩‍💻
@@ -8071,6 +8072,7 @@ zzZ	zzZ 💤 😴
 方旗	方旗 🏳 🏴
 方格旗	方格旗 🏁
 方框VS	方框VS 🆚️
+方框vs	方框vs 🆚️
 方片	方片 ♦️
 方程式	方程式 🏎️
 方程式賽車	方程式賽車 🏎
@@ -9730,7 +9732,7 @@ zzZ	zzZ 💤 😴
 洗髮精	洗髮精 🧴
 洗髮精瓶子	洗髮精瓶子 🧴
 洗髮露	洗髮露 🧴
-洞	洞 🕳
+洞	洞 🕳 🕳️
 洞穴	洞穴 🕳
 津巴布韋	津巴布韋 🇿🇼
 津巴布韋國旗	津巴布韋國旗 🇿🇼
@@ -10968,6 +10970,7 @@ zzZ	zzZ 💤 😴
 球場	球場 🏟
 球手	球手 ⛹️‍♀️
 球拍	球拍 🏏 🏓 🏸
+球杆	球杆 🏑 🏒
 球桿	球桿 🏏 🏑 🏒 🏓 🏸
 球棍	球棍 🏒
 球棒	球棒 🏏 🏑 🏒
@@ -11190,6 +11193,7 @@ zzZ	zzZ 💤 😴
 申脷	申脷 😜 😝
 申請	申請 🈸️
 男AppleGenius	男AppleGenius 👨‍💻
+男Applegenius	男Applegenius 👨‍💻
 男Apple天才	男Apple天才 👨‍💻
 男Apple工程師	男Apple工程師 👨‍💻
 男Apple開發人員	男Apple開發人員 👨‍💻
@@ -14033,7 +14037,8 @@ zzZ	zzZ 💤 😴
 舞動之心	舞動之心 💞
 舞台劇	舞台劇 🎭
 舞女	舞女 👯‍♀️ 💃🏻
-舞孃	舞孃 👯‍♀️ 💃🏻
+舞娘	舞娘 💃🏻
+舞孃	舞孃 👯‍♀️
 舞廳	舞廳 💃 🪩
 舞會	舞會 👯‍♀️ 👯‍♂️
 舞男	舞男 🕺🏻
@@ -16306,6 +16311,10 @@ zzZ	zzZ 💤 😴
 錄音帶	錄音帶 📼
 錄音按鈕	錄音按鈕 ⏺️
 錄音符號	錄音符號 ⏺️ ⏺️️
+錘	錘 🔨
+錘子	錘子 🔨 🛠
+錘子和扳手	錘子和扳手 🛠
+錘子和鎬子	錘子和鎬子 ⚒️
 錢	錢 💰 💲 💴 💵 💶 💷 💸 🤑 🪙
 錢不見了	錢不見了 💸
 錢丟了	錢丟了 💸
@@ -16401,6 +16410,7 @@ zzZ	zzZ 💤 😴
 鐵軌	鐵軌 🚃 🚆 🚋 🚟 🛤 🛤️
 鐵道	鐵道 🚆 🚞 🚟 🛤 🛤️
 鐵道車	鐵道車 🚃
+鐵錘	鐵錘 🔨
 鐵鎚	鐵鎚 ⚒️ 🔨 🛠
 鐵鎚和十字鎬	鐵鎚和十字鎬 ⚒️
 鐵鎚和扳手	鐵鎚和扳手 🛠
